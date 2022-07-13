@@ -20,3 +20,5 @@ yarn add styled-components
 ```sh
 yarn add @types/styled-components -D
 ```
+
+- [Google Fonts](https://fonts.google.com/specimen/Poppins)
