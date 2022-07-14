@@ -22,3 +22,21 @@ yarn add @types/styled-components -D
 ```
 
 - [Google Fonts](https://fonts.google.com/specimen/Poppins)
+
+## Backend APIs (for testing)
+
+- [JSON Server](https://github.com/typicode/json-server)
+- [Mirage JS](https://miragejs.com/)
+```sh
+yarn add miragejs
+```
+- [MSW](https://mswjs.io/) Mock Service Worker.
+
+
+## HTTP Client
+
+[Axios](https://axios-http.com/docs/intro)
+
+```sh
+yarn add axios
+```
