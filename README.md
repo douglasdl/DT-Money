@@ -40,3 +40,23 @@ yarn add miragejs
 ```sh
 yarn add axios
 ```
+
+## React Modal library
+
+- [React Modal](https://github.com/reactjs/react-modal)
+
+```sh
+yarn add react-modal
+```
+
+```sh
+yarn add @types/react-modal -D
+```
+
+## Border color
+
+[Polished](https://polished.js.org/)
+
+```sh
+yarn add polished
+```

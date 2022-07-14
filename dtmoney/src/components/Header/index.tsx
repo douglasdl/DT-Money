@@ -4,14 +4,22 @@ import {
     Content
 } from './styles';
 
-export function Header() {
+interface HeaderProps {
+    onOpenNewTransactionModal: () => void;
+}
+
+export function Header({onOpenNewTransactionModal}:HeaderProps) {
     return (
         <Container>
             <Content>
                 <img src={logoImg} alt="dt money" />
-                <button type="button">
-                    Nova Transação
+                <button 
+                    type="button"
+                    onClick={onOpenNewTransactionModal}
+                >
+                    Cadastrar Transação
                 </button>
+
             </Content>
         </Container>
     )
