@@ -51,7 +51,7 @@ Components: Header, TransactionsTable and Summary.
 
 ## 🔖 Layout
 
-The basic layout project can be accessed in [this link]() in your [Figma](https://figma.com) account.
+The basic layout project can be accessed in [this link](https://www.figma.com/file/ZPX1qSueZ1cR1jWt4RhEFj/dtmoney-Ignite) in your [Figma](https://figma.com) account.
 
 ## 💻 IDE
 This project was done using [Visual Studio Code](https://code.visualstudio.com/) IDE.
@@ -143,8 +143,6 @@ DT Money
 ```sh
 yarn create react-app dtmoney --template typescript
 ```
-
-- [Figma Layout](https://www.figma.com/file/ZPX1qSueZ1cR1jWt4RhEFj/dtmoney-Ignite)
 
 
 - [Styled Components](https://styled-components.com/)
